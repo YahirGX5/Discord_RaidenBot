@@ -27,7 +27,7 @@ class Crear_Respuesta():
 #This class uses Open AI api to allow the users "talk" with the bot    
 class RaidenTalk:
     def __init__(self):
-        self.api_key = "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"
+        self.api_key = "Your_OpenAI_token_here"
 
     #Function that takes a text provided by user, process it and returns the response
     def generate_text(self, message):
