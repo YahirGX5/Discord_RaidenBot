@@ -1,0 +1,3 @@
+pip install discord.py
+pip install pymysql-pool
+pip install openai
